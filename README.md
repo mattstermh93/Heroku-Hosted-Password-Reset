@@ -1,1 +1,1 @@
-Made this to show the functionality for how to deploy a site with Heroku
+The purpose of this is to render the functionality for sending a password reset token to a user who is registered on your website. Hosted with Heroku.
